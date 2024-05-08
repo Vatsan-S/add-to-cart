@@ -1,8 +1,5 @@
-# React + Vite
+Overview of ecommerce webpage(Add to cart functionality).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. You can Add any card into the cart. so the cart count increases and decreases while removing.
+2. Add to cart button changes to remove from cart once the item is added to the cart.
+3. Style of remove from cart button is changed on toggle.
